@@ -1,8 +1,10 @@
 # login
-
 A new Flutter project.
 
 ## Getting Started
+
+used packages:
+http package is used for fetching the response from the API.
 
 This project is a starting point for a Flutter application.
 
