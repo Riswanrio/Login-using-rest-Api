@@ -1,11 +1,13 @@
 # login
 A new Flutter project.
 
+For Reference visit this website https://reqres.in.
+
 ## Getting Started
 
 used packages:
 http package is used for fetching the response from the API.
-For Reference visit this website https://reqres.in.
+
 
 This project is a starting point for a Flutter application.
 
@@ -22,5 +24,5 @@ CREDENTIALS:
 email:eve.hot@reqres.in
 password:cityslicka
 
-OUTPUT:
+## OUTPUT:
 ![MicrosoftTeams-image (8)](https://user-images.githubusercontent.com/113181008/194276034-74d8b05e-f67b-4ef0-a0d8-81c59ad0afd5.png)
