@@ -22,6 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 
 CREDENTIALS:
 email:eve.hot@reqres.in
+
 password:cityslicka
 
 ## OUTPUT:
