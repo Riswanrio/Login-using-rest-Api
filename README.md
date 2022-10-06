@@ -5,6 +5,7 @@ A new Flutter project.
 
 used packages:
 http package is used for fetching the response from the API.
+For Reference visit this website https://reqres.in.
 
 This project is a starting point for a Flutter application.
 
@@ -18,9 +19,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 CREDENTIALS:
-
 email:eve.hot@reqres.in
-
 password:cityslicka
 
 OUTPUT:
